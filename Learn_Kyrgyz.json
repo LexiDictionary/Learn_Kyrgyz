@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Lesson 1: Greetings",
+    "text": "<p>Greetings are an essential part of Kyrgyz culture. The most common way to say hello is “Салам!” (Salam!). A more polite form is “Саламатсызбы?” which means “How are you?”.</p>",
+    "vocab": [
+      ["Салам", "Hello"],
+      ["Саламатсызбы", "How are you?"],
+      ["Рахмат", "Thank you"],
+      ["Кандайсың", "How are you (informal)"],
+      ["Жакшы", "Good"],
+      ["Көрүшкөнчө", "See you"]
+    ],
+    "grammar": "<p><strong>Present Simple of “to be”</strong> in Kyrgyz is often omitted in the present tense.</p><div class=\"example\">Мен мугалим. – I am a teacher.</div><div class=\"example\">Сен студент. – You are a student.</div><div class=\"example\">Ал дарыгер. – He/She is a doctor.</div><div class=\"example\">Биз досторбуз. – We are friends.</div><div class=\"example\">Силер окуучуларсыңар. – You are students.</div>"
+  },
+  {
+    "title": "Lesson 2: Numbers",
+    "text": "<p>Numbers are used in everyday conversation for counting, time, age, and more. Here are the basic numbers from 1 to 10 in Kyrgyz:</p>",
+    "vocab": [
+      ["Бир", "One"],
+      ["Эки", "Two"],
+      ["Үч", "Three"],
+      ["Төрт", "Four"],
+      ["Беш", "Five"],
+      ["Алты", "Six"],
+      ["Жети", "Seven"],
+      ["Сегиз", "Eight"],
+      ["Тогуз", "Nine"],
+      ["Он", "Ten"]
+    ],
+    "grammar": "<p><strong>Numbers in context</strong> don’t require plural endings for counted nouns.</p><div class=\"example\">Бир китеп – one book</div><div class=\"example\">Эки дос – two friends</div><div class=\"example\">Үч алма – three apples</div><div class=\"example\">Төрт бала – four children</div><div class=\"example\">Он машина – ten cars</div>"
+  },
+  {
+    "title": "Lesson 3: Family",
+    "text": "<p>Family is very important in Kyrgyz culture. The word “үй-бүлө” means “family”. Let’s learn some common family terms.</p>",
+    "vocab": [
+      ["Ата", "Father"],
+      ["Эне", "Mother"],
+      ["Ага", "Older brother"],
+      ["Эже", "Older sister"],
+      ["Ини", "Younger brother"],
+      ["Сиңди", "Younger sister"],
+      ["Бала", "Child"],
+      ["Үй-бүлө", "Family"],
+      ["Жубай", "Spouse"],
+      ["Байке", "Big brother (respectful)"]
+    ],
+    "grammar": "<p><strong>Possessive forms</strong> are made by adding suffixes:</p><div class=\"example\">Менин атам – my father</div><div class=\"example\">Сенин энең – your mother</div><div class=\"example\">Анын агасы – his brother</div><div class=\"example\">Биздин үй-бүлөбүз – our family</div><div class=\"example\">Силердин досторуңар – your friends</div>"
+  },
+  {
+    "title": "Lesson 4: Pronouns",
+    "text": "<p>Pronouns are essential for constructing sentences. Below are the basic Kyrgyz personal pronouns.</p>",
+    "vocab": [
+      ["Мен", "I"],
+      ["Сен", "You (singular informal)"],
+      ["Ал", "He/She"],
+      ["Биз", "We"],
+      ["Силер", "You (plural)"],
+      ["Алар", "They"],
+      ["Бул", "This"],
+      ["Тигил", "That"],
+      ["Мунун", "Of this"],
+      ["Анын", "His/Her"]
+    ],
+    "grammar": "<p><strong>Pronouns in use:</strong></p><div class=\"example\">Мен студентмин. – I am a student.</div><div class=\"example\">Сен жакшысың. – You are good.</div><div class=\"example\">Ал келди. – He came.</div><div class=\"example\">Биз барабыз. – We are going.</div><div class=\"example\">Алар окушат. – They study.</div>"
+  },
+  {
+    "title": "Lesson 5: Plural Nouns",
+    "text": "<p>Plural nouns in Kyrgyz are formed with the suffixes –лар, –лер, –дор, –дөр, depending on vowel harmony.</p>",
+    "vocab": [
+      ["Китеп", "Book"],
+      ["Китептер", "Books"],
+      ["Бала", "Child"],
+      ["Балдар", "Children"],
+      ["Дос", "Friend"],
+      ["Достор", "Friends"],
+      ["Үй", "House"],
+      ["Үйлөр", "Houses"],
+      ["Мал", "Animal (livestock)"],
+      ["Малдар", "Animals"]
+    ],
+    "grammar": "<p><strong>Plural endings</strong> agree with vowel harmony:</p><div class=\"example\">Кыз – кыздар (girls)</div><div class=\"example\">Эне – энелер (mothers)</div><div class=\"example\">Адам – адамдар (people)</div><div class=\"example\">Көл – көлдөр (lakes)</div><div class=\"example\">Жол – жолдор (roads)</div>"
+  }
+]

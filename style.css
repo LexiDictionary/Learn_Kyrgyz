@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #fffafa;
+  color: #222;
+  display: flex;
+  height: 100vh;
+}
+
+/* Layout */
+.container {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 280px;
+  background: linear-gradient(180deg, #c70000 0%, #8b0000 100%);
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.lesson-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lesson-list li {
+  padding: 12px 16px;
+  border-radius: 10px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.lesson-list li:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.lesson-list li.active {
+  background: #fff;
+  color: #c70000;
+  font-weight: 600;
+}
+
+/* Main content */
+.content {
+  flex: 1;
+  padding: 40px;
+  overflow-y: auto;
+}
+
+h1 {
+  color: #c70000;
+  font-size: 1.6em;
+  margin-top: 0;
+}
+
+.section-title {
+  color: #8b0000;
+  font-weight: 600;
+  margin-top: 25px;
+  border-bottom: 2px solid #c70000;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.text-block {
+  background: #fff4f4;
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 1.6;
+  margin-top: 15px;
+}
+
+/* Vocabulary table */
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.vocab-table td {
+  padding: 10px 15px;
+  border-bottom: 1px solid #eee;
+  font-size: 1em;
+}
+
+.vocab-table td.kyrgyz {
+  color: #c70000;
+  font-weight: 600;
+  width: 45%;
+}
+
+.vocab-table td.english {
+  color: #222;
+}
+
+/* Grammar examples */
+.example {
+  background: #fff4f4;
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-radius: 6px;
+  font-family: 'Courier New', monospace;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+
+  .content {
+    padding: 20px;
+  }
+}
