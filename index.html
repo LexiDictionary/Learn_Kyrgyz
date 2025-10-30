@@ -3,20 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kyrgyz for Everyone – Sample Course</title>
+  <title>Learn Kyrgyz</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
     <aside class="sidebar">
       <div class="sidebar-top">
-        <h2 class="logo">🇰🇬 Kyrgyz for Everyone</h2>
-        <ul class="lesson-list">
-          <li onclick="showLesson(0)" class="active">Lesson 1: Greetings</li>
-          <li onclick="showLesson(1)">Lesson 2: Numbers</li>
-          <li onclick="showLesson(2)">Lesson 3: Family</li>
-          <li onclick="showLesson(3)">Lesson 4: Pronouns</li>
-          <li onclick="showLesson(4)">Lesson 5: Plural Nouns</li>
+        <h2 class="logo">🇰🇬 Learn Kyrgyz</h2>
+        <ul class="lesson-list" id="lesson-list">
+          <!-- Dynamically populated by script.js -->
         </ul>
       </div>
       <div class="sidebar-footer">
@@ -25,7 +21,9 @@
     </aside>
 
     <main class="content">
-      <div id="lesson-container"></div>
+      <div id="lesson-container">
+        <p>Loading course content...</p>
+      </div>
     </main>
   </div>
 
