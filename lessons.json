@@ -1,20 +1,24 @@
 [
   {
-    "title": "Lesson 1: Greetings",
-    "text": "<p>Greetings are an essential part of Kyrgyz culture. The most common way to say hello is “Салам!” (Salam!). A more polite form is “Саламатсызбы?” which means “How are you?”.</p>",
+    "title": "Lesson 1: Greetings and Introductions",
+    "text": "<p>In Kyrgyz culture, greetings are warm and respectful. When meeting someone, it’s common to shake hands and ask about their well-being. The standard greeting is “Салам!” (Hello!), while “Саламатсызбы?” is a polite way to ask 'How are you?'—especially when speaking to elders or strangers.</p><p>When introducing yourself, you can say: <em>“Менин атым [Your Name].”</em> (My name is [Your Name].)</p>",
     "vocab": [
       ["Салам", "Hello"],
-      ["Саламатсызбы", "How are you?"],
+      ["Саламатсызбы?", "How are you? (formal)"],
+      ["Кандайсың?", "How are you? (informal)"],
       ["Рахмат", "Thank you"],
-      ["Кандайсың", "How are you (informal)"],
-      ["Жакшы", "Good"],
-      ["Көрүшкөнчө", "See you"]
+      ["Жакшы", "Good / Fine"],
+      ["Көрүшкөнчө!", "Goodbye! (See you later!)"],
+      ["Менин атым…", "My name is…"],
+      ["Сиздин атыңыз ким?", "What is your name? (formal)"],
+      ["Сен кимсин?", "Who are you? (informal)"],
+      ["Туура келди!", "Nice to meet you!"]
     ],
-    "grammar": "<p><strong>Present Simple of “to be”</strong> in Kyrgyz is often omitted in the present tense.</p><div class=\"example\">Мен мугалим. – I am a teacher.</div><div class=\"example\">Сен студент. – You are a student.</div><div class=\"example\">Ал дарыгер. – He/She is a doctor.</div><div class=\"example\">Биз досторбуз. – We are friends.</div><div class=\"example\">Силер окуучуларсыңар. – You are students.</div>"
+    "grammar": "<p><strong>Present tense of 'to be'</strong> is usually omitted in Kyrgyz. Identity or state is expressed through noun phrases alone.</p><div class=\"example\">Мен студент. – I am a student.</div><div class=\"example\">Ал дарыгер. – He/She is a doctor.</div><div class=\"example\">Сиз мугалимсиз. – You are a teacher. (formal)</div><div class=\"example\">Биз Бишкектенбиз. – We are from Bishkek.</div><div class=\"example\">Алар жакшы адамдар. – They are good people.</div>"
   },
   {
-    "title": "Lesson 2: Numbers",
-    "text": "<p>Numbers are used in everyday conversation for counting, time, age, and more. Here are the basic numbers from 1 to 10 in Kyrgyz:</p>",
+    "title": "Lesson 2: Numbers and Counting",
+    "text": "<p>Numbers are vital for telling time, shopping, giving your age, and more. Kyrgyz uses a decimal system. Note that numbers from 11 to 19 are formed by saying the unit first, then 'он' (ten): e.g., 'бир он' = 11.</p><p>Age is expressed with the verb 'жашта': <em>“Мен жети жаштамын.”</em> (I am seven years old.)</p>",
     "vocab": [
       ["Бир", "One"],
       ["Эки", "Two"],
@@ -25,13 +29,18 @@
       ["Жети", "Seven"],
       ["Сегиз", "Eight"],
       ["Тогуз", "Nine"],
-      ["Он", "Ten"]
+      ["Он", "Ten"],
+      ["Жүз", "Hundred"],
+      ["Миң", "Thousand"],
+      ["Жаш", "Year (of age)"],
+      ["Канча жаштасыз?", "How old are you? (formal)"],
+      ["Мен он эки жаштамын.", "I am twelve years old."]
     ],
-    "grammar": "<p><strong>Numbers in context</strong> don’t require plural endings for counted nouns.</p><div class=\"example\">Бир китеп – one book</div><div class=\"example\">Эки дос – two friends</div><div class=\"example\">Үч алма – three apples</div><div class=\"example\">Төрт бала – four children</div><div class=\"example\">Он машина – ten cars</div>"
+    "grammar": "<p><strong>Numbers + Nouns:</strong> The noun following a number stays in the singular form and does not take a plural suffix.</p><div class=\"example\">Эки китеп – two books</div><div class=\"example\">Беш дос – five friends</div><div class=\"example\">Он беш алма – fifteen apples</div><div class=\"example\">Жүз машина – one hundred cars</div><div class=\"example\">Миң адам – one thousand people</div>"
   },
   {
-    "title": "Lesson 3: Family",
-    "text": "<p>Family is very important in Kyrgyz culture. The word “үй-бүлө” means “family”. Let’s learn some common family terms.</p>",
+    "title": "Lesson 3: Family Members",
+    "text": "<p>Family ties are central in Kyrgyz society. Extended families often live together or nearby. Respect for elders is shown through specific terms and polite speech. When talking about your family, you’ll use possessive suffixes to indicate 'my', 'your', etc.</p>",
     "vocab": [
       ["Ата", "Father"],
       ["Эне", "Mother"],
@@ -41,31 +50,40 @@
       ["Сиңди", "Younger sister"],
       ["Бала", "Child"],
       ["Үй-бүлө", "Family"],
-      ["Жубай", "Spouse"],
-      ["Байке", "Big brother (respectful)"]
+      ["Жубай", "Spouse (husband/wife)"],
+      ["Ата-эне", "Parents"],
+      ["Небере", "Grandchild"],
+      ["Чоң ата", "Grandfather"],
+      ["Чоң эне", "Grandmother"],
+      ["Тууган", "Relative"],
+      ["Менин үй-бүлөм чоң.", "My family is large."]
     ],
-    "grammar": "<p><strong>Possessive forms</strong> are made by adding suffixes:</p><div class=\"example\">Менин атам – my father</div><div class=\"example\">Сенин энең – your mother</div><div class=\"example\">Анын агасы – his brother</div><div class=\"example\">Биздин үй-бүлөбүз – our family</div><div class=\"example\">Силердин досторуңар – your friends</div>"
+    "grammar": "<p><strong>Possessive suffixes</strong> are attached to nouns to show ownership. The form changes based on person and vowel harmony.</p><div class=\"example\">Менин атам – my father</div><div class=\"example\">Сенин энең – your mother (informal)</div><div class=\"example\">Анын агасы – his/her older brother</div><div class=\"example\">Биздин үй-бүлөбүз – our family</div><div class=\"example\">Силердин туугандарыңар – your relatives (plural/formal)</div>"
   },
   {
-    "title": "Lesson 4: Pronouns",
-    "text": "<p>Pronouns are essential for constructing sentences. Below are the basic Kyrgyz personal pronouns.</p>",
+    "title": "Lesson 4: Personal Pronouns and Basic Sentences",
+    "text": "<p>Pronouns help identify who is doing or experiencing something in a sentence. Kyrgyz distinguishes between formal and informal 'you', and plural forms are used respectfully even when addressing one person.</p><p>Use 'Сиз' (formal you) with elders, strangers, or in professional settings. Use 'Сен' only with close friends or children.</p>",
     "vocab": [
       ["Мен", "I"],
-      ["Сен", "You (singular informal)"],
-      ["Ал", "He/She"],
+      ["Сен", "You (singular, informal)"],
+      ["Сиз", "You (singular/plural, formal)"],
+      ["Ал", "He / She / It"],
       ["Биз", "We"],
-      ["Силер", "You (plural)"],
+      ["Силер", "You (plural, informal)"],
+      ["Сиздер", "You (plural, formal)"],
       ["Алар", "They"],
       ["Бул", "This"],
-      ["Тигил", "That"],
-      ["Мунун", "Of this"],
-      ["Анын", "His/Her"]
+      ["Тигил", "That (over there)"],
+      ["Ал эмне?", "What is that?"],
+      ["Бул ким?", "Who is this?"],
+      ["Мен түшүндүм.", "I understood."],
+      ["Сиз түшүндүңүзбү?", "Did you understand? (formal)"]
     ],
-    "grammar": "<p><strong>Pronouns in use:</strong></p><div class=\"example\">Мен студентмин. – I am a student.</div><div class=\"example\">Сен жакшысың. – You are good.</div><div class=\"example\">Ал келди. – He came.</div><div class=\"example\">Биз барабыз. – We are going.</div><div class=\"example\">Алар окушат. – They study.</div>"
+    "grammar": "<p><strong>Subject pronouns + predicates:</strong> Verbs and nouns directly follow the subject without a linking verb.</p><div class=\"example\">Мен окуйм. – I study.</div><div class=\"example\">Сен жазасың. – You write.</div><div class=\"example\">Ал келди. – He/She came.</div><div class=\"example\">Биз сүйлөшөбүз. – We talk.</div><div class=\"example\">Сиздер кайда жашайсыз? – Where do you live? (formal plural)</div>"
   },
   {
-    "title": "Lesson 5: Plural Nouns",
-    "text": "<p>Plural nouns in Kyrgyz are formed with the suffixes –лар, –лер, –дор, –дөр, depending on vowel harmony.</p>",
+    "title": "Lesson 5: Plural Nouns and Vowel Harmony",
+    "text": "<p>Kyrgyz plurals follow strict vowel harmony rules. The suffix changes depending on whether the word contains front vowels (е, и, ө, ү) or back vowels (а, ы, о, у). This ensures smooth pronunciation and is a key feature of Turkic languages.</p>",
     "vocab": [
       ["Китеп", "Book"],
       ["Китептер", "Books"],
@@ -75,9 +93,35 @@
       ["Достор", "Friends"],
       ["Үй", "House"],
       ["Үйлөр", "Houses"],
-      ["Мал", "Animal (livestock)"],
-      ["Малдар", "Animals"]
+      ["Көл", "Lake"],
+      ["Көлдөр", "Lakes"],
+      ["Адам", "Person"],
+      ["Адамдар", "People"],
+      ["Жол", "Road"],
+      ["Жолдор", "Roads"],
+      ["Эне", "Mother"],
+      ["Энелер", "Mothers"]
     ],
-    "grammar": "<p><strong>Plural endings</strong> agree with vowel harmony:</p><div class=\"example\">Кыз – кыздар (girls)</div><div class=\"example\">Эне – энелер (mothers)</div><div class=\"example\">Адам – адамдар (people)</div><div class=\"example\">Көл – көлдөр (lakes)</div><div class=\"example\">Жол – жолдор (roads)</div>"
+    "grammar": "<p><strong>Plural suffixes:</strong></p><ul><li>Back vowels → <strong>-дар / -дор</strong>: бала → балдар, жол → жолдор</li><li>Front vowels → <strong>-дер / -дөр</strong>: көл → көлдөр, эне → энелер</li><li>Some words use <strong>-тар / -тер</strong> if ending in a voiceless consonant: китеп → китептер</li></ul><div class=\"example\">Мен китептерди окуп жатам. – I am reading books.</div><div class=\"example\">Алар үйлөрдү сатышат. – They are selling houses.</div>"
+  },
+  {
+    "title": "Lesson 6: Daily Routines",
+    "text": "<p>Daily routines are expressed using verbs in the present tense. In Kyrgyz, the present continuous ('I am doing') and simple present ('I do') often use the same form with context or time words to clarify meaning. Common time expressions include 'эртең' (morning), 'түштөн кийин' (afternoon), and 'кечинде' (evening).</p>",
+    "vocab": [
+      ["Туруу", "To get up"],
+      ["Жуулуу", "To wash (oneself)"],
+      ["Тамактануу", "To eat"],
+      ["Окуу", "To study / To read"],
+      ["Иштөө", "To work"],
+      ["Уйкуга жатуу", "To go to bed"],
+      ["Эртең", "Morning"],
+      ["Түш", "Noon / Lunchtime"],
+      ["Кеч", "Evening"],
+      ["Азыр", "Now"],
+      ["Ар күн", "Every day"],
+      ["Мен эртең турам.", "I get up in the morning."],
+      ["Ал кечинде окуйт.", "He/She studies in the evening."]
+    ],
+    "grammar": "<p><strong>Present tense verb formation:</strong> Add personal suffixes to the verb stem. The stem often ends in a vowel.</p><div class=\"example\">Оку- + -йм → Мен окуйм. (I study.)</div><div class=\"example\">Иштө- + -сүз → Сиз иштейсиз. (You work. – formal)</div><div class=\"example\">Жаз- + -асың → Сен жазасың. (You write. – informal)</div><div class=\"example\">Ал тамактанат. – He/She is eating.</div><div class=\"example\">Биз азыр уйкуга жатабыз. – We are going to bed now.</div>"
   }
 ]
